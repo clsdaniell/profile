@@ -1,9 +1,15 @@
 ## Olá! Eu sou Carlos Daniel de Oliveira
 <p>
-  🖥 Sou QA e realizo automação com os seguintes frameworks: Cypress e Postman 
+  🖥 I'm a QA professional with 3 years of experience in manual and automated testing, always aiming for reliability and value delivery. During my career, I worked on temporary projects in conjunction with full-time contracts, acquiring skills in time management, adaptability, effective communication and flexibility.
+
+I have knowledge in automated API tests with Postman and Cypress, as well as in automated frontend tests with Cypress. My main skill is the automation of API tests, in which I have experience with Cypress, as well as knowledge in Cucumber and Allure reporter. I also have knowledge in agile methods, such as Scrum and Kanban, for agile project delivery.
+
+As soft skills, I have flexibility, good communication, sense of leadership, ethics, team spirit, analytical skills, resilience and agile mindset, as well as an ease of continuous learning, especially with practical activities.
+
+I have a sense of ownership for quality assurance throughout the SDLC cycle, taking the concept of shift-left testing and evangelizing the team with software quality and DevOps concepts to increase application maturity.
 </p>
 <p>
-  🖥 Estou sempre em busca de novos conhecimentos. 'O conhecimento é em si mesmo um poder.'
+  🖥 I am always in search of new knowledge. 'Knowledge is in itself a power.'
 </p>
 <div>
     <img height = '180em' src='https://github-readme-stats.vercel.app/api?username=clsdaniell&show_icons=true&theme=dark'>
