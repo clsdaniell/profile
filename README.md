@@ -14,7 +14,6 @@
   <img align='center' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
   <img align='center' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg'>
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
