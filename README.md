@@ -12,6 +12,7 @@
 
 <div style = 'display: inline_block'><br>
   <img align='center' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img align='center' height='30' width='40' src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png">
   <img align='center' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg'>
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
   <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
